@@ -12,6 +12,7 @@ This is a simple Amazon Clone built using HTML and CSS.
 # 📂 Project Structure
 
 Amazon-Clone/
+
 │── index.html  
 │── style.css  
 │── /images 
