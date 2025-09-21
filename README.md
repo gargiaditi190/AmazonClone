@@ -1,0 +1,23 @@
+# 🛒 Amazon Clone
+This is a simple Amazon Clone built using HTML and CSS.
+
+# 🚀 Features
+
+- RESPONSIVE HOMEPAGE LAYOUT
+- NAVIGATION BAR WITH LOGO, SEARCH BOX, AND CART ICON
+- PRODUCT LISTING SECTION
+- FOOTER WITH LINKS (SIMILAR TO AMAZON)
+- PURELY BUILT WITH HTML & CSS
+
+# 📂 Project Structure
+
+Amazon-Clone/
+│── index.html  
+│── style.css  
+│── /images 
+
+# 🎯 Learning Outcomes
+
+- PRACTICED HTML STRUCTURE AND CSS STYLING
+- LEARNED TO DESIGN A RESPONSIVE E-COMMERCE LAYOUT
+- IMPROVED UNDERSTANDING OF POSITIONING AND ALIGNMENT IN CSS
